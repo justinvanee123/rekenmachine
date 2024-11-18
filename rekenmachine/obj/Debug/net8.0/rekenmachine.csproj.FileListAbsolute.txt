@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\bin\Debug\net8.0\rekenmachine.exe
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\bin\Debug\net8.0\rekenmachine.deps.json
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\bin\Debug\net8.0\rekenmachine.runtimeconfig.json
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\bin\Debug\net8.0\rekenmachine.dll
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\bin\Debug\net8.0\rekenmachine.pdb
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\rekenmachine.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\rekenmachine.AssemblyInfo.cs
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\rekenmachine.dll
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\refint\rekenmachine.dll
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\rekenmachine.pdb
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\rekenmachine.genruntimeconfig.cache
+C:\Users\justi\source\repos\rekenmachine\rekenmachine\obj\Debug\net8.0\ref\rekenmachine.dll
